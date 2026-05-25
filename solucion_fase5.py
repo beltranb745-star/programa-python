@@ -1,3 +1,8 @@
+# Nombre del estudiante: Brayan Steven Beltran Zuleta 
+# Grupo:213022_761
+# Programa:Fundamentos de Programación 
+# Código Fuente: autoría propia
+
 # --- MÓDULOS / FUNCIONES ---
 def evaluar_compromiso(duracion, clics):
     """
